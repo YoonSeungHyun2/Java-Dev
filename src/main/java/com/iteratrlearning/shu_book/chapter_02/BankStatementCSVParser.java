@@ -23,5 +23,5 @@ public class BankStatementCSVParser implements BankStatementParser {
         return lines.stream().map(this::parseFrom).collect(toList());
     }
 
-    // 이것은 무엇인가
+    // 이것은 무엇인가. 2023-07-24
 }
