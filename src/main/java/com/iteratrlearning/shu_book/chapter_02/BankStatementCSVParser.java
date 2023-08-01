@@ -29,4 +29,5 @@ public class BankStatementCSVParser implements BankStatementParser {
     // 2023-07-27
     // 2023-07-28
     // 2023-07-31
+    // 2023-07-31
 }
