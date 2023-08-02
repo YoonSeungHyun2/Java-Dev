@@ -57,3 +57,4 @@ public class BankStatementAnalyzerSimple {
  - 각 문제에서 입력을 읽고 파싱하는 로직이 중복되고 파일 형식의 변화 시 코드가 중복되어 기존의 기능을 변화 어려움을 뜻함
  */
 
+//2023-08-02
