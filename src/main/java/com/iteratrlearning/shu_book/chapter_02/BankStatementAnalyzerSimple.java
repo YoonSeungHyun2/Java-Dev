@@ -60,4 +60,6 @@ public class BankStatementAnalyzerSimple {
 //2023-08-02
 //2023-08-03
 //2023-08-04
+//2023-08-07
+
 
