@@ -58,4 +58,4 @@ public class BankStatementAnalyzerSimple {
  */
 
 //2023-08-02
-//2023-08-25
+//2023-08-28
