@@ -23,3 +23,4 @@ public class BankStatementCSVParser implements BankStatementParser {
         return lines.stream().map(this::parseFrom).collect(toList());
     }
 }
+20230921
